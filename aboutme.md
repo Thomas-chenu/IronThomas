@@ -1,3 +1,5 @@
+This is an introduction about me : 
+
 # Who am I
 
 * Where are you from? Paris
@@ -13,4 +15,4 @@
 
 * Which industry will you seek employment in? kind of start up, be part of a data team to continue my learning.
 * What will your future role look like? Data analysist and maybe later Data Scientist
-* What is your career goal? Be part of a projet i trust in, or freelance to work in different countries
+* What is your career goal?
